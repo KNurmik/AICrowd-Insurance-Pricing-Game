@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Data
+# Data folder
 data/
+
+# Competition provided baseline model
+Logistic_regression_baseline.ipynb
